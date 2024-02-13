@@ -1,0 +1,38 @@
+{
+  "data": {
+    "matches": [
+      {
+        "id": "match-1",
+        "players": [
+          {
+            "id": "player-1"
+          },
+          {
+            "id": "player-2"
+          }
+        ],
+        "winner": {
+          "id": "player-1"
+        },
+        "startTime": "2022-01-31T07:12:00.000Z",
+        "endTime": "2022-01-31T16:33:00.000Z"
+      },
+      {
+        "id": "match-2",
+        "players": [
+          {
+            "id": "player-1"
+          },
+          {
+            "id": "player-2"
+          }
+        ],
+        "winner": {
+          "id": "player-2"
+        },
+        "startTime": "2021-10-29T06:39:00.000Z",
+        "endTime": "2021-10-29T13:20:00.000Z"
+      }
+    ]
+  }
+}
